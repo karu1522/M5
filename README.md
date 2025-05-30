@@ -174,7 +174,8 @@ int main() {
  ```
  ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/5455ac41-51b5-4de5-b54c-39f82896a428)
+![image](https://github.com/user-attachments/assets/ba25a376-af05-456a-a6e4-701db8b79c6f)
+
 
 
 
